@@ -65,7 +65,7 @@ input[type=reset]{
 }
 
 textarea{
-    background-color: rgb(184, 184, 184);
+    background-color: rgb(184, 184, 184);   
     border-radius: 15px;
     width: 900px;
     height: 100px;
